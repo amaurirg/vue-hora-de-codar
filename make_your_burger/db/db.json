@@ -100,16 +100,6 @@
       "id": 11
     },
     {
-      "nome": "AMAURI ROSSETTI GIOVANI",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 15
-    },
-    {
       "nome": "Clarice Kappes",
       "carne": "Picanha",
       "pao": "3 Queijos",
@@ -133,6 +123,17 @@
       ],
       "status": "Finalizado",
       "id": 17
+    },
+    {
+      "nome": "AMAURI ROSSETTI GIOVANI",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 18
     }
   ]
 }

@@ -100,7 +100,7 @@ export default {
       const dataJson = JSON.stringify({ status: option });
       const req = await fetch(`http://localhost:3000/burgers/${id}`, {
         method: "PATCH",
-        headers: { "COntent-Type": "application/json" },
+        headers: { "Content-Type": "application/json" },
         body: dataJson,
       });
       const res = await req.json();
